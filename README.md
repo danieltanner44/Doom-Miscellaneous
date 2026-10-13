@@ -11,4 +11,5 @@ Note: the diagram represents the minimum requirements to be assigned to a set sp
 <IMG src=/Speedrun_Categorisation/Speedrun_Categorisation_Venn-Diagram.jpg>
 </details>
 
-   
+# License Details:
+The details of the MIT License covering use of materials in this repository is provided here: [License File](/LICENSE)
